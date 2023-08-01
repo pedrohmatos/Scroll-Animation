@@ -19,6 +19,8 @@ body {
 h1 {
     margin: 32px 0px 32px 0px;
     text-align: center;
+    color: rgb(62, 62, 216);
+    text-shadow: 1px 1px 5px rgb(255, 255, 255);
 }
 
 .box {
